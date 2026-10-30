@@ -1,0 +1,10 @@
+<div id="sidebar_plugin_streamercontrol_wrapper" style="display: none; margin: 10px 0;">
+    <strong style="margin-right: 8px;">{{ _('Streamer') }}</strong>
+    <button class="btn btn-success" data-bind="click: start, enable: !busy()">
+        <i class="fa fa-play"></i> On
+    </button>
+    <button class="btn btn-danger" data-bind="click: stop, enable: !busy()">
+        <i class="fa fa-stop"></i> Off
+    </button>
+    <span style="margin-left: 8px;" data-bind="text: status, visible: status"></span>
+</div>

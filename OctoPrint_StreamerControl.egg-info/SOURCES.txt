@@ -1,0 +1,10 @@
+setup.py
+OctoPrint_StreamerControl.egg-info/PKG-INFO
+OctoPrint_StreamerControl.egg-info/SOURCES.txt
+OctoPrint_StreamerControl.egg-info/dependency_links.txt
+OctoPrint_StreamerControl.egg-info/entry_points.txt
+OctoPrint_StreamerControl.egg-info/requires.txt
+OctoPrint_StreamerControl.egg-info/top_level.txt
+octoprint_streamercontrol/__init__.py
+octoprint_streamercontrol/static/js/streamercontrol.js
+octoprint_streamercontrol/templates/streamercontrol.jinja2

@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: OctoPrint-StreamerControl
+Version: 0.1.0
+Summary: Sidebar panel with buttons to start and stop the streamer
+Requires-Dist: requests
+Dynamic: requires-dist
+Dynamic: summary

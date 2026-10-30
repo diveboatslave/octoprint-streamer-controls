@@ -1,0 +1,2 @@
+[octoprint.plugin]
+streamercontrol = octoprint_streamercontrol
